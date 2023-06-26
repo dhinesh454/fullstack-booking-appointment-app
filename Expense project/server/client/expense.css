@@ -1,0 +1,29 @@
+body
+{
+    padding: 5px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+
+.container
+{
+   margin-left: 100px;
+}
+
+div{
+
+    padding:2px;
+    margin: 2px;
+}
+input
+{
+    padding:2px;
+    margin: auto;
+}
+button
+{
+    margin: 3px;
+    padding: 2px;
+}
